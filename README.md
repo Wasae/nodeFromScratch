@@ -18,3 +18,20 @@ Way through which we import or Add other modules and module written by other dev
         . npm modules
         . core modules
         . self created modules
+package.json --> consist of js object which tracks and indicates dev and prod dependencies
+package-lock.json --> file that keeps track of every of every things and managed by npm
+
+
+3) Why node js..??
+
+. Event-driven & Non Blocking IO(Parallel execution) model
+. node js's ecsystem npm,largest ecosystem for open source libraries
+
+4) Libraries that can be helpfull
+
+. validator(validational purpose)
+. chalk(coloring console text)
+. nodemon(auto restart app automatically based on an change)
+. morgan(logger)
+ 
+ installing any package globally we donnot install in our app but we install on the OS Level also we get acess to new commands from that package and can use on terminals.
