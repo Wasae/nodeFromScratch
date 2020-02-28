@@ -14,3 +14,7 @@ here we g0:
 2) Node Module System
 
 Way through which we import or Add other modules and module written by other developers into our existing functionality.    
+    One can import
+        . npm modules
+        . core modules
+        . self created modules
