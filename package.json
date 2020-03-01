@@ -1,0 +1,25 @@
+{
+  "name": "nodefromscratch",
+  "version": "1.0.0",
+  "description": "Starting Node from Scratch With Every Description.\r lets Start by Parts.",
+  "main": "importingnodecoremodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wasae/nodeFromScratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wasae/nodeFromScratch/issues"
+  },
+  "homepage": "https://github.com/Wasae/nodeFromScratch#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
