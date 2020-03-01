@@ -107,4 +107,13 @@ Destructring objects
         . Templating engines like handlebars
         . In order to use a view engine,we need to specify it to node via express
 
-10) Accessing API from broeser
+10) Accessing API from browser
+        structuring routes
+                . server.js file
+                . mainRoute.js file will have all routes specification
+                . Individual Routers will add here
+
+                express.router()   -->>express()   -->>
+                Individual Routers1-->>app.use('/products',Individual Routers1)
+                Individual Routers2-->>mainRoute.js-->>server.js
+                Individual Routers3-->>
